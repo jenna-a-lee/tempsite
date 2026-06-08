@@ -118,9 +118,12 @@ author:
   avatar           : "/Photos/ProfPic.jpg"
   bio              : "Hello! I'm Jenna, a research scientist and educator with a background in marine microbial ecology."
   location         : "Princeton, NJ"
-  email            : "jennaal@princeton.edu"
+  email            : #"jennaal@princeton.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:jennaal@princeton.edu"
     - label: "Linkedin"
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/jenna-a-lee/"
