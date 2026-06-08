@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Jenna A. Lee"
   avatar           : "/Photos/ProfPic.jpg"
-  bio              : " "
+  bio              : "**About Me** \n Hello! I'm Jenna, a research scientist and educator with a background in marine microbial ecology."
   location         : "Princeton, NJ"
   email            : "jennaal@princeton.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
