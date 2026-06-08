@@ -121,9 +121,6 @@ author:
   email            : "jennaal@princeton.edu"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:jennaal@princeton.edu"
     - label: "Linkedin"
       icon: "fab fa-fw fa-square-linkedin"
       url: "https://www.linkedin.com/in/jenna-a-lee/"
