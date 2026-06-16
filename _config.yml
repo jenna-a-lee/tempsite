@@ -135,7 +135,7 @@ author:
       url: "https://orcid.org/0000-0002-2261-8886"
 
 # Site Footer
-footer:
+#footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
