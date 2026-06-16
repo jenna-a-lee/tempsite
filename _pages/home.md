@@ -8,7 +8,6 @@ header:
 
 excerpt: >
   Test text -- Hi, I'm Jenna!<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.0">Latest release v4.28.0</a></small>
       
 ---
 
