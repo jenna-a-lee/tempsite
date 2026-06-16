@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /Photos/CB2021_8_header.jpeg
-  actions:
+#  actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
