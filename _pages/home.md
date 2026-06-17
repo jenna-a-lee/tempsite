@@ -1,6 +1,8 @@
 ---
 layout: splash
 permalink: /home/
+redirect_from: 
+  - /
 
 header:
   overlay_color: "#5e616c"
