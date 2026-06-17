@@ -6,7 +6,7 @@ redirect_from:
 
 header:
   overlay_color: "#5e616c"
-  overlay_image: /Photos/CB2022_1_header.HEIC
+  overlay_image: /Photos/CB2022_1_header.jpg
 
 excerpt: >
   Test text -- Hi, I'm Jenna!<br />
